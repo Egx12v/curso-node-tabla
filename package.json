@@ -1,0 +1,19 @@
+{
+  "name": "u3-bases-node",
+  "version": "0.0.1",
+  "description": "Tabla bases para conocimiento y rf -> Tesis",
+  "main": "app.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "Base3": "node app.js --base=3"
+  },
+  "keywords": [
+    "Tesis"
+  ],
+  "author": "Emmanuel González Rvo12",
+  "license": "MIT",
+  "dependencies": {
+    "colors": "^1.4.0",
+    "yargs": "^17.7.2"
+  }
+}
