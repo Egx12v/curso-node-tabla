@@ -1,5 +1,5 @@
 ## => N O T A S
-### Primer programa de node usando yargs
+### Primer programa de node usando yargs x-0
 
 Options:
       --help     Show help                                             [boolean]
@@ -8,4 +8,5 @@ Options:
   -m, --max      Limite maximo de la iteración de la tabla->
                                                           [number] [default: 10]
   -b, --base                                                 [number] [required]
+
 
