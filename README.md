@@ -1,5 +1,5 @@
 ## => N O T A S
-### Primer programa de node usando yargs x-0
+### Primer programa de node usando yargs.
 
 Options:
       --help     Show help                                             [boolean]
